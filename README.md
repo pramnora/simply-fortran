@@ -35,7 +35,8 @@ Full tutorial...
 APlot/(graphs)...  
 - https://simplyfortran.com/docs/aplot/intro.html
 - https://simplyfortran.com/docs/aplot/quick.html
-- https://simplyfortran.com/docs/aplot/reference.html  
+- https://simplyfortran.com/docs/aplot/reference.html
+- https://pplot.sourceforge.net/  
 
 Registration/other products/-etc.    
 - https://approximatrix.com/  
