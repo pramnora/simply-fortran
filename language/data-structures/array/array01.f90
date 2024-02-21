@@ -1,5 +1,13 @@
 program fillArrayWithNumbers
 
+!---------------------------------------------------------
+! Example array taken from...
+! YouTube Channel: Any Learn Nepal
+! Learn Fortran Problem Solving - 5 | Fortran Tutorial 19
+! https://www.youtube.com/watch?v=nHgZy91XtPg
+! NOTE: I modified the code to suit my own desired output.
+!---------------------------------------------------------
+ 
 ! The program first creates an 'empty' array;
 ! next, uses a 'do/end do' loop...with an index variable called: i 
 ! to fill the array up with numbers going from 1 up to 10;
@@ -10,20 +18,15 @@ program fillArrayWithNumbers
 
 ! numbers(              1 ) =               1
 ! numbers(              2 ) =               2
-
 ! ...and, so on...
-
 ! numbers(              9 ) =               9
 ! numbers(             10 ) =               10
-
 !...which is when the program stops.
 
 ! NOTE: I'm having some difficulties in controlling how the output displays:
 !       it should have displayed as:
-
 !       numbers(1)=1
 !       numbers(2)=2
-
 ! -etc. But, when I used a comma to separate up the data...that doesn't quite seem to work;
 !       though, it does display the printout being all together on one same line.
 
