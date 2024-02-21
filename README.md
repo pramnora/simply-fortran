@@ -23,7 +23,14 @@ Main official web site...
 - https://www.simplyfortran.com  
 - https://simplyfortran.com/support/
 - https://simplyfortran.com/docs/
- 
+
+Tutorials...
+
+A quick short beginner's tutorial just in order to get one started: Hello, world!  
+- https://simplyfortran.com/docs/tutorial/tutorial1.html  
+The full tutorial...
+
+
 Registration/other products/-etc.    
 - https://approximatrix.com/  
 - https://approximatrix.com/products/
