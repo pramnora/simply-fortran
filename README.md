@@ -33,7 +33,8 @@ Full tutorial...
 - https://simplyfortran.com/docs/full/linux/index.html  
 
 APlot/(graphs)...  
-- https://simplyfortran.com/docs/aplot/intro.html  
+- https://simplyfortran.com/docs/aplot/intro.html
+- https://simplyfortran.com/docs/aplot/quick.html  
 
 Registration/other products/-etc.    
 - https://approximatrix.com/  
