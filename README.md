@@ -39,7 +39,7 @@ APlot/(graphs)...
 - https://pplot.sourceforge.net/  
 
 Registration/other products/-etc.  
-(Including WebFortran...that allows one to write/run Fortran programs online.)       
+(Including WebFortran...allowing one to write/run Fortran programs online.)       
 - https://approximatrix.com/  
 - https://approximatrix.com/products/
 - https://forums.approximatrix.com/  
