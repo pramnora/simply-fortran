@@ -32,6 +32,9 @@ A quick short beginner's tutorial just in order to get one started: Hello, world
 Full tutorial...  
 - https://simplyfortran.com/docs/full/linux/index.html  
 
+APlot/(graphs)...  
+- https://simplyfortran.com/docs/aplot/intro.html  
+
 Registration/other products/-etc.    
 - https://approximatrix.com/  
 - https://approximatrix.com/products/
