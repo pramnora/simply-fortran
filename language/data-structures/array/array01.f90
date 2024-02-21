@@ -12,10 +12,9 @@ program fillArrayWithNumbers
 ! next, uses a 'do/end do' loop...with an index variable called: i 
 ! to fill the array up with numbers going from 1 up to 10;
 ! finally, the program prints out each number being stored inside of the array
-! going from start to end.
+! going from start to finish.
 
 ! The output appears as...
-
 ! numbers(              1 ) =               1
 ! numbers(              2 ) =               2
 ! ...and, so on...
@@ -36,4 +35,5 @@ do i=1,10
     numbers(i)=i;
     Print *, "numbers(",i,") = ",numbers(i)
 end do 
+
 end program fillArrayWithNumbers
