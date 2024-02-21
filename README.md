@@ -24,5 +24,6 @@ Main official web site...
 
 Registration/other products/-etc.    
 - https://approximatrix.com/  
-- https://approximatrix.com/products/  
+- https://approximatrix.com/products/
+- https://forums.approximatrix.com/  
 
