@@ -22,6 +22,7 @@ then, there will be a **learning curve** to go climb.
 Main official web site...  
 - https://www.simplyfortran.com  
 
-Registration/other products/-etc.  
-- https://approximatrix.com/
+Registration/other products/-etc.    
+- https://approximatrix.com/  
+- https://approximatrix.com/products/  
 
