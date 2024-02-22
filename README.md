@@ -59,6 +59,10 @@ Learn Fortran Problem Solving - 5 | Fortran Tutorial 19
 Learn Fortran If else statment | Decision Control | If statement | Fortran Tutorial 6  
 - https://www.youtube.com/watch?v=fOTzs2dPm8s&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=6  
 
+Learn Fortran else if statment | Decision Control | nested if | Fortran Tutorial 7  
+- https://www.youtube.com/watch?v=02_v_TBc4Og&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=7
+  
+
 
 
 
