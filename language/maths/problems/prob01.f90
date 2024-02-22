@@ -23,4 +23,11 @@ do i=1,5
     print *,i, i*i, i**3
 end do 
 
+! The print out looks like this...
+! 1        1         1
+! 2        4         8
+! 3        9        27
+! 4       16        64
+! 5       25       125
+
 end program test03
