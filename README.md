@@ -56,4 +56,9 @@ Learn Fortran | Your first program | fortran Tutorial 1  (YouTube Channel: Any L
 Learn Fortran Problem Solving - 5 | Fortran Tutorial 19  
 - https://www.youtube.com/watch?v=nHgZy91XtPg
 
+Learn Fortran If else statment | Decision Control | If statement | Fortran Tutorial 6  
+- https://www.youtube.com/watch?v=fOTzs2dPm8s&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=6  
+
+
+
 
