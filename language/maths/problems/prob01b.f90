@@ -1,9 +1,10 @@
 program test03
 
-! This test comes from watching the following YouTube video:
+! I was watching the following YouTube video:
 ! YouTube channel: Any Learn Nepal
 ! Learn Fortran Problem Solving - 5 | Fortran Tutorial 19
 ! https://www.youtube.com/watch?v=nHgZy91XtPg
+! NOTE: My own very simple example code...doesn't use any arrays.
 
 ! Q: print out... 
 ! 1> Print numbers: 1,2,3,4,5...(1 up to 5: n+1)
