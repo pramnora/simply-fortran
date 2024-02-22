@@ -73,7 +73,8 @@ Learn Fortran If else statment | Decision Control | If statement | Fortran Tutor
 Learn Fortran else if statment | Decision Control | nested if | Fortran Tutorial 7  
 - https://www.youtube.com/watch?v=02_v_TBc4Og&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=7
   
-
+Learn Fortran Decision Control Using Logical Operator | Fortran Tutorial 8  
+- https://www.youtube.com/watch?v=BeLo4Ei6kDs&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=8  
 
 
 
