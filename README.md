@@ -74,7 +74,10 @@ Learn Fortran else if statment | Decision Control | nested if | Fortran Tutorial
 - https://www.youtube.com/watch?v=02_v_TBc4Og&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=7
   
 Learn Fortran Decision Control Using Logical Operator | Fortran Tutorial 8  
-- https://www.youtube.com/watch?v=BeLo4Ei6kDs&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=8  
+- https://www.youtube.com/watch?v=BeLo4Ei6kDs&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=8
+
+Learn Fortran Select Case Statement | Fortran Tutorial 9  
+- https://www.youtube.com/watch?v=KpbvE1VTwZc&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=9  
 
 
 
