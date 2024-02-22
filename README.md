@@ -8,8 +8,8 @@ Updated: Wed 21st Feb 2024 18:29 PM GMT
 ## Introduction
 
 Using Linux Mint OS/Operating System...I had downloaded a software file manager, called: Snap;  
-whilst I was peering through its 'programming' related section;    
-all of a sudden, I came across a link allowing me to download a Fortran compiler named: SimplyFortran;  
+whilst I was peering through its 'programming' related section...when, all of a sudden,  
+I came across a link allowing me to download a FREE Fortran compiler named: SimplyFortran;  
 so, I thought to myself I've never ever tried using Fortran before; therefore, why not...?  
 
 But, of course, when it comes to learning to use any programming language that's *new*;  
