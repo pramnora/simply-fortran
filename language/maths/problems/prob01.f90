@@ -1,7 +1,7 @@
 program test03
 
 ! This test comes from watching the following YouTube video:
-! 
+! YouTube channel: Any Learn Nepal
 ! Learn Fortran Problem Solving - 5 | Fortran Tutorial 19
 ! https://www.youtube.com/watch?v=nHgZy91XtPg
 
