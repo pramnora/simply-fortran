@@ -48,9 +48,12 @@ Registration/other products/-etc.
 
 ## YouTube Tutorials...
 
-YouTube channel: Any Learn Nepal  
+YouTube channel: Any Learn Nepal - Series of 33 videos...  
+
+Learn Fortran | Your first program | fortran Tutorial 1  (YouTube Channel: Any Learn Nepal)  
+- https://www.youtube.com/watch?v=OE01hgDfrnA&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp    
 
 Learn Fortran Problem Solving - 5 | Fortran Tutorial 19  
 - https://www.youtube.com/watch?v=nHgZy91XtPg
-- 
+
 
