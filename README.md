@@ -48,10 +48,21 @@ Registration/other products/-etc.
 
 ## YouTube Tutorials...
 
+-(**NOTE**: For me, personally speaking, this is the 'best' Fortran programming tutorial bar none.)-    
+
 YouTube channel: Any Learn Nepal - Series of 33 videos...  
 
 Learn Fortran | Your first program | fortran Tutorial 1  (YouTube Channel: Any Learn Nepal)  
-- https://www.youtube.com/watch?v=OE01hgDfrnA&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp    
+- https://www.youtube.com/watch?v=OE01hgDfrnA&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp
+
+Learn Fortran Variables and Data types | Fortran Tutorial 2  
+- https://www.youtube.com/watch?v=9_8gKomtybU&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=2  
+
+Learn Fortran Comments, Range, Precision, Variable Update | Fortran Tutorial 3  
+- https://www.youtube.com/watch?v=ER42XkgudBw&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=3  
+
+Learn Fortran Math and Relational operators | Fortran Tutorial 4  
+- https://www.youtube.com/watch?v=KFqGzWewY9c&list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp&index=4  
 
 Learn Fortran Problem Solving - 5 | Fortran Tutorial 19  
 - https://www.youtube.com/watch?v=nHgZy91XtPg
